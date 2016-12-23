@@ -1,1 +1,1 @@
-# node-template
+Boilerplate for Node/Express/PGSQL App
